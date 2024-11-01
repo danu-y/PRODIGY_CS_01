@@ -17,7 +17,7 @@ def caesar_cipher(text, shift, mode="encrypt"):
             result += char
     return result
 
-# Main program
+
 if __name__ == "__main__":
     print("Caesar Cipher Program")
     
